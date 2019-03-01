@@ -1,0 +1,59 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "appengine/cloudsql",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "CC94GmZeHQiUwXoSEuhibEkX9H4=",
+			"path": "github.com/dchest/blake2b",
+			"revision": "06006a921c7d13e3fdf63c401cb0e4529a26e6e4",
+			"revisionTime": "2017-03-07T14:12:22Z"
+		},
+		{
+			"checksumSHA1": "K6icEVf2CuBzhLm/MGpRd1btshM=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "1a676ac6e4dce68e9303a1800773861350374a9e",
+			"revisionTime": "2018-03-08T10:03:10Z"
+		},
+		{
+			"checksumSHA1": "K4baRuniMT2gjB3dhIDONN07l7U=",
+			"path": "github.com/gobuffalo/uuid",
+			"revision": "3a9fb6c5c481d4886f1e9323c61ad743fb955860",
+			"revisionTime": "2018-02-07T21:12:47Z"
+		},
+		{
+			"checksumSHA1": "eECxSkwh0WmhLwaxHfkvcLOWS08=",
+			"path": "github.com/jinzhu/gorm/dialects/mysql",
+			"revision": "472c70caa40267cb89fd8facb07fe6454b578626",
+			"revisionTime": "2018-11-03T14:14:39Z"
+		},
+		{
+			"checksumSHA1": "TLN4B4P3g0SwMPWwXHuVEA8A/YU=",
+			"path": "github.com/matishsiao/goInfo",
+			"revision": "617e6440957ee5591c8912e8b7e2f03a86298722",
+			"revisionTime": "2017-08-03T14:20:06Z"
+		},
+		{
+			"checksumSHA1": "Jh3yCl3+GiUKEAw73smr21esdWI=",
+			"path": "github.com/pzduniak/argon2",
+			"revision": "8cea0f78645de325eba7e52b7d6076fbbe748b01",
+			"revisionTime": "2016-12-23T23:02:31Z"
+		},
+		{
+			"checksumSHA1": "6Ivio6O6mgWR9/jsbfO0xQVTPiU=",
+			"path": "github.com/thanhpk/randstr",
+			"revision": "c5a0f26468db1b2f953bd3e2364a8af3105cfd2e",
+			"revisionTime": "2018-07-18T15:34:13Z"
+		},
+		{
+			"checksumSHA1": "LiyXfqOzaeQ8vgYZH3t2hUEdVTw=",
+			"path": "google.golang.org/appengine/cloudsql",
+			"revision": "a37df1387b4521194676d88c79230c613610d5f4",
+			"revisionTime": "2018-12-03T16:37:10Z"
+		}
+	],
+	"rootPath": "github.com/figassis/gopress"
+}

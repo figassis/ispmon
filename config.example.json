@@ -1,0 +1,17 @@
+{
+    "ReportTitle": "ISP Connectivity Report",
+    "ISP": "ISP Name",
+    "Emails": {
+        "From": "",
+        "FromMail": "",
+        "ToMails": [""],
+        "Bcc": [""]
+    },
+    "Message": "",
+    "ClientID": "",
+    "CheckHost": "https://www.google.com",
+    "Frequency": 5,
+    "ReportOutage": 30,
+    "SendgridApiKey": "",
+    "LogLevel": "debug"
+}
